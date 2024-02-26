@@ -2,7 +2,7 @@
 
 Links:
 
-- [Self-Driving Cars (Prof. Andreas Geiger, University of Tübingen)](https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
+- [Lecture recordings](https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
 - [Course website](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)
 - [Course material](https://drive.google.com/drive/folders/1ydLWVZ180F0WS1Ygs54OZ9M1aKHwk0yW)
 
