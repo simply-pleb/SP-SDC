@@ -1,6 +1,8 @@
-# Self driving cars in Carla Simulator
+# Self-driving cars in Carla Simulator
 
 wip
+
+Modular pipeline compared to end-to-end approach for self-driving cars using Carla simulator
 
 ## Control
 
